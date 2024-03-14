@@ -27,6 +27,7 @@ namespace n09310024
             //btnButton.Text = "我已經被按過了";
             Form form = new FormButton();
             form.Show();
+
         }
     }
 }
