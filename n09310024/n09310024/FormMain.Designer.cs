@@ -1,6 +1,6 @@
 ﻿namespace n09310024
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// 設計工具所需的變數。
@@ -31,6 +31,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -70,16 +71,27 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "徐佳璘";
             // 
-            // Form1
+            // btnButton
+            // 
+            this.btnButton.Location = new System.Drawing.Point(76, 191);
+            this.btnButton.Name = "btnButton";
+            this.btnButton.Size = new System.Drawing.Size(118, 50);
+            this.btnButton.TabIndex = 3;
+            this.btnButton.Text = "按鈕";
+            this.btnButton.UseVisualStyleBackColor = true;
+            this.btnButton.Click += new System.EventHandler(this.btnButton_Click);
+            // 
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnButton);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FormMain";
+            this.Text = "GUI主程式";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -90,6 +102,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnButton;
     }
 }
 

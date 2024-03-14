@@ -1,0 +1,11 @@
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\bin\Debug\n09310024.exe.config
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\bin\Debug\n09310024.exe
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\bin\Debug\n09310024.pdb
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.FormMain.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.exe
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.pdb
+C:\Users\MEGAS\Desktop\GUI_Class\n09310024\n09310024\obj\Debug\n09310024.FormButton.resources

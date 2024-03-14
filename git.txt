@@ -1,5 +1,5 @@
 
-git colne https://github.com/jia0baby/GUI_Class.git
+git clone https://github.com/jia0baby/GUI_Class.git
           拉檔案
 
 git add .
